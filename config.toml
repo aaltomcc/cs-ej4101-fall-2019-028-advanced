@@ -2,3 +2,60 @@ baseURL = "https://aaltomcc.github.io/cs-ej4101-fall-2019-028-advanced/"
 languageCode = "en-us"
 title = "Anton Official"
 theme = "ink"
+paginate = 5
+
+copyright = "© T. Anton Puolakka"
+
+pygmentsstyle = "vs"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+
+#googleAnalytics = "UA-123-45"
+disqusShortname = "fin-anton"
+
+[params]
+	subtitle = "Quarter of a century"
+
+	# Optional 64x64 avatar image.
+	#avatar = "https://image.freepik.com/free-vector/young-man-head-with-beard-avatar-character_24877-36786.jpg"
+	avatar = "https://raw.githubusercontent.com/aaltomcc/cs-ej4101-fall-2019-028-starter/master/rumble.png"
+
+	# Content types to disable Disqus on.
+	disableDisqusTypes = ["page"]
+	
+	featherIconsCDN = true
+
+	mode = "dark" # "dark" or "auto"
+	# customCSS = "css/custom.css"  # Custom CSS applied to default styles.
+	# customDarkCSS = "css/custom-dark.css"  # Custom styles applied to dark mode css.
+	# customJS = ["js/custom.js", "js/custom1.js"]  # Custom JS scripts.
+
+# Nav.
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "All posts"
+url = "/posts"
+weight = 2
+
+[[menu.main]]
+name = "About"
+url = "/about"
+weight = 3
+
+[[menu.main]]
+name = "Tags"
+url = "/tags"
+weight = 4
+
+[[params.social]]
+name = "Github"
+icon = "github"
+url = "https://github.com/aalto-anton"
+
+[taxonomies]
+   tag = "tags"
+

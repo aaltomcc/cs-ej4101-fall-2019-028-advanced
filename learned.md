@@ -1,5 +1,5 @@
-Learned
-=======
+Learned 028
+===========
 * That Aalto takes it easy with deadlined and project deliverables while imposing super-strict deadline policy on the students.
 * Some deep git stuff (that I do not remember but I have a hint that it exists now)
 * That the videos talk about waterfall style in such a way that it's value is not well understood (V model is good and justified, guys, but not necessarily on your ecommerce site!)

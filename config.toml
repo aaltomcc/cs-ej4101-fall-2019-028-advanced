@@ -46,16 +46,16 @@ name = "About"
 url = "/about"
 weight = 3
 
-[[menu.main]]
-name = "Tags"
-url = "/tags"
-weight = 4
+#[[menu.main]]
+#name = "Tags"
+#url = "/tags"
+#weight = 4
 
 [[params.social]]
 name = "Github"
 icon = "github"
 url = "https://github.com/aalto-anton"
 
-[taxonomies]
-   tag = "tags"
+#[taxonomies]
+#   tag = "tags"
 

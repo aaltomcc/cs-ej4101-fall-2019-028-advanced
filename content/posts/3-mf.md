@@ -9,11 +9,11 @@ The last few years I've been involved with many IoT projects. Not super-small-sc
 
 Python 3, JavaScript/Node, Java 2 SE and last but not least: C++/STL. Experienced data modeler and DB administrator. For IoT the of the breed is Balena, just got to love it!
 
-Docker, Tracis CI, Hugo skins and wiki documenting (TWiki admin), many many many SCM tools, incl. git. I've created a few Certificate Authorities so OpenSSL and cumbersome format conversions and fail-safe authority hierarchies are just alright with me. 
+Docker, Travis CI, Hugo skins and wiki documenting (TWiki admin), many many many SCM tools, incl. git. I've created a few PKI / Certificate Authorities so OpenSSL and cumbersome format conversions and fail-safe authority hierarchies are just alright with me. 
 
-Linux: RedHat and Ubuntu distros and mostly bash.
+Linux: RedHat, Ubuntu and BusyBox distros and mostly bash.
 
-IoT: CAN bus, flashing, reading hex with joy.
+IoT: CAN bus, flashing, reading hex with joy. The biggest super-power of mine is experience with such many end-to-end systems, from sensor to insight.
 
 Back-end person, team player and cross-function diplomat, agile (ScrumMaster certified).
 

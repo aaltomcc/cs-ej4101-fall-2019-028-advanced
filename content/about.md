@@ -12,7 +12,7 @@ The name is Anton Puolakka and in the professional world I am a digital strategi
 
 The current domain in which I am applying my skills in is electric boating. The expected impact is no less than to revolutionarize how free-time recreational boating shall be felt.
 
-In historical context I have experienced a technologial journey with some true evolution: decades ago I needed to set up an endless cluster of raw socket options to get me connected right while quite recently the maturity has reached a level that I can set up a working web server with one single line of code. You've got it right: my primary angle to issues is a software engineering one.
+In historical context I have experienced a technologial journey with some true evolution: decades ago I needed to set up an endless cluster of raw socket options to get me connected right while quite recently the technical maturity has reached such a level that I can set up a working web server with one single line of code. You've got it right: my primary angle to issues is a software engineering one.
 
 While I started my career as a deep subject-matter expert I did not want to stick to that particular role alone: in the later years I've repeatedly lead international teams and I've been part of the team that negotiated an eight-figure managed services deal.
 

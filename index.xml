@@ -7,43 +7,46 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© T. Anton Puolakka</copyright>
-    <lastBuildDate>Wed, 18 Dec 2019 14:12:29 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 31 Dec 2019 14:12:29 +0200</lastBuildDate>
     
 	<atom:link href="https://aaltomcc.github.io/cs-ej4101-fall-2019-028-advanced/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Kolmonen</title>
-      <link>https://aaltomcc.github.io/cs-ej4101-fall-2019-028-advanced/posts/kolmonen/</link>
-      <pubDate>Wed, 18 Dec 2019 14:12:29 +0200</pubDate>
+      <title>To all dear MeetFrank people</title>
+      <link>https://aaltomcc.github.io/cs-ej4101-fall-2019-028-advanced/posts/3-mf/</link>
+      <pubDate>Tue, 31 Dec 2019 14:12:29 +0200</pubDate>
       
-      <guid>https://aaltomcc.github.io/cs-ej4101-fall-2019-028-advanced/posts/kolmonen/</guid>
-      <description>ISO kolmonen</description>
+      <guid>https://aaltomcc.github.io/cs-ej4101-fall-2019-028-advanced/posts/3-mf/</guid>
+      <description>Yes, I am open for business.
+The last few years I&#39;ve been involved with many IoT projects. Not super-small-scale embedded but reasonably powerful devices that can do a variety of tricks. Combined with cloud tools we see the value, a non-trivial value indeed.
+Python 3, JavaScript/Node, Java 2 SE and last but not least: C++/STL. Experienced data modeler and DB administrator. For IoT the of the breed is Balena, just got to love it!</description>
     </item>
     
     <item>
-      <title>2nd</title>
-      <link>https://aaltomcc.github.io/cs-ej4101-fall-2019-028-advanced/posts/2nd/</link>
-      <pubDate>Wed, 18 Dec 2019 13:11:05 +0200</pubDate>
+      <title>Course Retrospect</title>
+      <link>https://aaltomcc.github.io/cs-ej4101-fall-2019-028-advanced/posts/2-learned/</link>
+      <pubDate>Thu, 19 Dec 2019 13:11:05 +0200</pubDate>
       
-      <guid>https://aaltomcc.github.io/cs-ej4101-fall-2019-028-advanced/posts/2nd/</guid>
-      <description>larger </description>
+      <guid>https://aaltomcc.github.io/cs-ej4101-fall-2019-028-advanced/posts/2-learned/</guid>
+      <description>The course was passed. More importantly, it was quite fun. It is good to get the grade but the journey alone was even better.
+Student 028 Learned  That Aalto takes it easy with deadlined and project deliverables while imposing super-strict deadline policy on the students. Some deep git stuff (that I do not remember but I have a hint that it exists now) That the videos talk about waterfall style in such a way that it&#39;s value is not well understood (V model is good and justified, guys, but not necessarily on your ecommerce site!</description>
     </item>
     
     <item>
-      <title>1st</title>
-      <link>https://aaltomcc.github.io/cs-ej4101-fall-2019-028-advanced/posts/1st/</link>
+      <title>Aalto DevOps Experience: Why?</title>
+      <link>https://aaltomcc.github.io/cs-ej4101-fall-2019-028-advanced/posts/1-thiscourse/</link>
       <pubDate>Wed, 18 Dec 2019 13:07:32 +0200</pubDate>
       
-      <guid>https://aaltomcc.github.io/cs-ej4101-fall-2019-028-advanced/posts/1st/</guid>
-      <description>This Course 028 Learned about FiTech somewhere early September 2019 and happily started to cherry-pick courses from various universities including Aalto.
+      <guid>https://aaltomcc.github.io/cs-ej4101-fall-2019-028-advanced/posts/1-thiscourse/</guid>
+      <description>Learned about FiTech somewhere early September 2019 and happily started to cherry-pick courses from various universities including Aalto.
 While I&#39;ve been professionally involved with software engineering for more than a quarter of a century I&#39;ve seen the gradual change in the software realization process. I must admit Scrum made a bigger impact than any other system and not least because I was trained to the drill by people who participated writing Agile Manifesto and defining the Scrum process.</description>
     </item>
     
     <item>
       <title>Let me introduce myself</title>
       <link>https://aaltomcc.github.io/cs-ej4101-fall-2019-028-advanced/about/</link>
-      <pubDate>Wed, 18 Dec 2019 13:05:30 +0200</pubDate>
+      <pubDate>Fri, 06 Dec 2019 13:05:30 +0200</pubDate>
       
       <guid>https://aaltomcc.github.io/cs-ej4101-fall-2019-028-advanced/about/</guid>
       <description>The name is Anton Puolakka and in the professional world I am a digital strategist who can and has to deal with issues related to ISO OSI layers ranging from 3 to 8.

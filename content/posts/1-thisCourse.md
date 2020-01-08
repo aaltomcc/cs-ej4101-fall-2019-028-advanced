@@ -1,13 +1,8 @@
 ---
-title: "1st"
+title: "Aalto DevOps Experience: Why?"
 date: 2019-12-18T13:07:32+02:00
 draft: no
 ---
-
-
-
-This Course 028
-===============
 
 Learned about FiTech somewhere early September 2019 and happily started to cherry-pick courses from various universities including Aalto.
 

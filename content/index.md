@@ -4,8 +4,8 @@
 
 [My blog](https://www.fi)
 
-About
-=====
+Introduction
+============
 
 The name is Anton Puolakka and in the professional world I am a digital strategist who can and has to deal with issues related to ISO OSI layers ranging from 3 to 8.
 
